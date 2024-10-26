@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+pydantic[email]
+pyyaml
+sqlalchemy
+databases
+passlib[bcrypt]  # For password hashing
+python-dotenv    # For environment variable management
+aiosqlite
+python-multipart
+greenlet
+python-dotenv
